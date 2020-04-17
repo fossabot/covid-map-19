@@ -1,4 +1,6 @@
 ## COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrdrabx%2Fcovid-map-19.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrdrabx%2Fcovid-map-19?ref=badge_shield)
+
 
 <img src="https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/cover.png" width="400" />
 
@@ -26,3 +28,6 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 
 ### Maps
 Original map shapefiles are from [GADM](https://gadm.org/), which are converted to TopoJSON files using [mapshaper](https://github.com/mbloch/mapshaper).
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrdrabx%2Fcovid-map-19.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrdrabx%2Fcovid-map-19?ref=badge_large)
